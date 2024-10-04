@@ -62,7 +62,7 @@ rp.head()
 ### Emobile csv:
 ![](./O1.png)
 ### Merged Dataset:
-![](./O4.png)
+![](./o4.png)
 ### Recommendation Systems score:
 ![](./O2.png)
 ### Final best products csv:
